@@ -1,4 +1,4 @@
-# qr_code_generator_in_python_flask
+# QR code Generator in Python Flask
 To create a QR code generator app in Flask, you will need to have a basic understanding of the Python programming language and the Flask web framework. Here are the steps you can follow to create the app:
 First, install Flask by running pip install flask in your terminal.
 Next, create a new Python file and import Flask.
